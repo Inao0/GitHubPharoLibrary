@@ -1,5 +1,7 @@
 {
-	"name" : "GHTMappedToJSON",
 	"commentStamp" : "SkipLentz 10/29/2015 10:50",
-	"category" : "GitHub"
+	"classinstvars" : [ ],
+	"category" : "GitHub",
+	"instvars" : [ ],
+	"name" : "GHTMappedToJSON"
 }

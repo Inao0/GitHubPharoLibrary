@@ -1,5 +1,7 @@
 {
-	"name" : "GHTMappedToURL",
 	"commentStamp" : "SkipLentz 10/28/2015 17:41",
-	"category" : "GitHub"
+	"classinstvars" : [ ],
+	"category" : "GitHub",
+	"instvars" : [ ],
+	"name" : "GHTMappedToURL"
 }

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "GHObject",
+	"category" : "GitHub",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"items",
+		"incomplete_results",
+		"total_count"
+	],
+	"name" : "GHEntitySearch",
+	"type" : "normal"
+}

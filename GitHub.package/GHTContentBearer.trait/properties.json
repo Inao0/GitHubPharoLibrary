@@ -1,5 +1,7 @@
 {
-	"name" : "GHTContentBearer",
 	"commentStamp" : "SkipLentz 10/29/2015 11:55",
-	"category" : "GitHub"
+	"classinstvars" : [ ],
+	"category" : "GitHub",
+	"instvars" : [ ],
+	"name" : "GHTContentBearer"
 }

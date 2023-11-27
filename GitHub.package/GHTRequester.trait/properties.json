@@ -1,5 +1,7 @@
 {
-	"name" : "GHTRequester",
 	"commentStamp" : "SkipLentz 1/11/2016 15:25",
-	"category" : "GitHub"
+	"classinstvars" : [ ],
+	"category" : "GitHub",
+	"instvars" : [ ],
+	"name" : "GHTRequester"
 }

@@ -1,14 +1,11 @@
 {
-	"category" : "GitHub-Repositories",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SkipLentz 12/22/2015 14:13",
-	"instvars" : [
-		 ],
-	"name" : "GHCommitLogger",
-	"pools" : [
-		 ],
 	"super" : "GHAbstractBuilder",
-	"type" : "normal" }
+	"category" : "GitHub-Repositories",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GHCommitLogger",
+	"type" : "normal"
+}

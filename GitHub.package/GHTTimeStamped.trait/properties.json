@@ -1,5 +1,7 @@
 {
-	"name" : "GHTTimeStamped",
 	"commentStamp" : "SkipLentz 10/29/2015 11:10",
-	"category" : "GitHub"
+	"classinstvars" : [ ],
+	"category" : "GitHub",
+	"instvars" : [ ],
+	"name" : "GHTTimeStamped"
 }

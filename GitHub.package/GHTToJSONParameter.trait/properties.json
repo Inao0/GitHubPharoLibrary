@@ -1,5 +1,7 @@
 {
-	"name" : "GHTToJSONParameter",
 	"commentStamp" : "SkipLentz 10/29/2015 13:54",
-	"category" : "GitHub"
+	"classinstvars" : [ ],
+	"category" : "GitHub",
+	"instvars" : [ ],
+	"name" : "GHTToJSONParameter"
 }

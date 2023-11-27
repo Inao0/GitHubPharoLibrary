@@ -1,10 +1,10 @@
 {
-	"category" : "GitHub-Repositories",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SkipLentz 10/9/2015 11:01",
+	"super" : "GHObject",
+	"category" : "GitHub-Repositories",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"forks_url",
 		"contents_url",
@@ -71,9 +71,8 @@
 		"homepage",
 		"pushed_at",
 		"merges_url",
-		"comments_url" ],
+		"comments_url"
+	],
 	"name" : "GHRepository",
-	"pools" : [
-		 ],
-	"super" : "GHObject",
-	"type" : "normal" }
+	"type" : "normal"
+}
